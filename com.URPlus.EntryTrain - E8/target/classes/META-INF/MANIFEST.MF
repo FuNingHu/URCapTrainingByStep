@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1665470179634
+Build-Jdk: 1.8.0_292
+Built-By: ur
+Bundle-Activator: com.URPlus.EntryTrain.impl.Activator
+Bundle-Category: URCap
+Bundle-ContactAddress: (your address)
+Bundle-Copyright: Copyright notice (C)
+Bundle-Description: (your description)
+Bundle-LicenseType: License type
+Bundle-ManifestVersion: 2
+Bundle-Name: EntryTrain
+Bundle-SymbolicName: com.URPlus.EntryTrain
+Bundle-Vendor: (your name or company)
+Bundle-Version: 1.0.0.Build8
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.ur.urcap.api.contribution;version="[1.9,2)",com.ur.u
+ rcap.api.contribution.program;version="[1.9,2)",com.ur.urcap.api.contri
+ bution.program.swing;version="[1.8,2)",com.ur.urcap.api.domain;version=
+ "[1.10,2)",com.ur.urcap.api.domain.data;version="[1.10,2)",com.ur.urcap
+ .api.domain.script;version="[1.8,2)",com.ur.urcap.api.domain.system;ver
+ sion="[1.8,2)",com.ur.urcap.api.domain.system.localization;version="[1.
+ 8,2)",com.ur.urcap.api.domain.undoredo;version="[1.8,2)",javax.swing,ja
+ vax.swing.event,org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-2.1.0.20130426-122213
+URCapCompatibility-CB3: true
+URCapCompatibility-eSeries: true
